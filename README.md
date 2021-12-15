@@ -3,6 +3,6 @@ This code pertains to a method of sleep apnea detection using a single lead ECG.
 Machine Learning and Deep Learning Classifiers" by Sheta et al. were studied and implemented in this project.
 
 # Authors
-Anupreet Singh 
-Javeria Ahmed
+Anupreet Singh,
+Javeria Ahmed, and
 Preeti Bhavsar
